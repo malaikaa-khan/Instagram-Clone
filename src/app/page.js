@@ -1,9 +1,9 @@
 
 export default function page() {
   return (
-    <h1>
-      helo
-    </h1>
+   <div>
+    Home
+   </div>
   )
 }
 
